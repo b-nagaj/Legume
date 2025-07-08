@@ -1,0 +1,12 @@
+/* Base TypeScript configuration file. See https://www.typescriptlang.org/tsconfig/ */
+
+{
+	"references": [
+		{
+			"path": "./tsconfig.node.json"
+		},
+		{
+			"path": "./tsconfig.app.json"
+		}
+	]
+}

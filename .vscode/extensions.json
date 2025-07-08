@@ -1,0 +1,10 @@
+/* VSCode IDE extension recommendations */
+
+{
+  "recommendations": [
+    "Vue.volar",
+    "esbenp.prettier-vscode",
+    "DavidAnson.vscode-markdownlint",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
