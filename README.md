@@ -28,3 +28,15 @@ npm run dev
 
 > **NOTE** Access a running local development server by navigating to
 <http://localhost:5173/> in a web browser
+
+## Developer Tools
+
+*Which tools were used to develop the project?*
+
+- [Node.js](https://nodejs.org/en) Run JavaScript everywhere
+- [Vue.js](https://vuejs.org/) The progressive JavaScript framework
+- [Vite](https://vite.dev/) The build tool for the web
+- [CSpell](https://cspell.org/) A spell checker for code
+- [Prettier](https://prettier.io/) Opinionated code formatter
+- [Markdownlint](https://github.com/DavidAnson/markdownlint) Style-checker &
+lint tool for Markdown
